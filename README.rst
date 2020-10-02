@@ -34,7 +34,7 @@ Page generating
 Each page has its own template. For most things it means inclusion of
 other templates to generate full page.
 
-Menu
+Menu Bar
 ----
 
 Menu is configured in data/menu.py, the first element always means page name
